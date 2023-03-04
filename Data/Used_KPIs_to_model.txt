@@ -1,0 +1,19 @@
+- KPIs:
+	+ Defensive Action:
+		1. Number of dribblers tackled per 90: Tkl/90
+		2. Win percentage in tackles: TklWon%
+		3. Percentage of getting dribbled through: TklDriPast
+		4. Number of times blocking a shot by standing in its path per90: BlkSh/90
+		5. Number of interceptions per 90: Int/90
+		6. Clearances per 90: Clr/90
+
+
+	+ Arial action:
+		1. Total of arial duels per 90: AerDuels/90
+		2. Percentage of arial duels won: AerWon%
+
+	+ Passing action:
+		1. Passes attempted per 90: PasTotAtt/90
+		2. Pass completion percentage: PasTotCmp%
+		3. Long passes attempted (>30 yards) per 90: PasLonAtt/90
+		4. Long pass completion (>30 yards) percentage: PasLonCmp%
